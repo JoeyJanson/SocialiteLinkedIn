@@ -1,5 +1,5 @@
 {
-    "name": "socialiteproviders/linkedin",
+    "name": "joeyjanson/socialite-linkedin",
     "description": "LinkedIn OAuth2 Provider for Laravel Socialite",
     "license": "MIT",
     "keywords": [
@@ -13,13 +13,12 @@
         {
             "name": "Brian Faust",
             "email": "hello@brianfaust.de"
+        },
+        {
+            "name": "Joey Janson",
+            "email": "joey@7parts.nl"
         }
     ],
-    "support": {
-        "issues": "https://github.com/socialiteproviders/providers/issues",
-        "source": "https://github.com/socialiteproviders/providers",
-        "docs": "https://socialiteproviders.com/linkedin"
-    },
     "require": {
         "php": "^7.4 || ^8.0",
         "ext-json": "*",
